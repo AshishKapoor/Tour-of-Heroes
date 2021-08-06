@@ -1,4 +1,19 @@
-# LearningAngular
+# Learning Angular
+
+## Screenshots
+
+**Dashboard of Heroes**
+<img width="1222" alt="Screenshot 2021-08-06 at 4 20 14 PM" src="https://user-images.githubusercontent.com/5203107/128499718-e8ffc3f1-2db3-44e0-8ec3-6a7c3536ec46.png">
+
+**Find a hero**
+<img width="1222" alt="Screenshot 2021-08-06 at 4 20 38 PM" src="https://user-images.githubusercontent.com/5203107/128499815-f70dfa89-83eb-4e4b-bac1-84db7e7d8f41.png">
+
+**List of heroes**
+<img width="1222" alt="Screenshot 2021-08-06 at 4 20 21 PM" src="https://user-images.githubusercontent.com/5203107/128499800-abded680-b738-4a39-93f9-84e8e91f531a.png">
+
+**Hero detail**
+<img width="1199" alt="Screenshot 2021-08-06 at 4 23 43 PM" src="https://user-images.githubusercontent.com/5203107/128500009-dbe77b63-2a9b-4ca7-b7fe-d999eed6da48.png">
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
