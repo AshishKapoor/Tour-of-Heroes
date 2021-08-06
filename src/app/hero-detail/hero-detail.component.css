@@ -13,6 +13,7 @@ button {
   padding: 1rem;
   border-radius: 4px;
   font-size: 1rem;
+  margin-right: 4px;
 }
 button:hover {
   background-color: #cfd8dc;
